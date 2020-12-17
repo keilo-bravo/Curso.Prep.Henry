@@ -1,5 +1,11 @@
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+* Variables
+	Son recipientes el cual su valor varia dependiendo su uso
+
+* Strings
+	Son variables que almacenan información de tipo texto, para ello su contenido se tiene que colocar entre comillas ("", '', ``)
+	
+* Funciones (argumentos, `return`)
+
+* Declaraciones `if`
+
+* Valores booleanos (`true`, `false`)
