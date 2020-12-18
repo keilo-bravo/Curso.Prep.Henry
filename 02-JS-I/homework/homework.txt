@@ -1,11 +1,18 @@
 * Variables
-	Son recipientes el cual su valor varia dependiendo su uso
+	Son recipientes el cual su valor varía dependiendo su uso
 
 * Strings
 	Son variables que almacenan información de tipo texto, para ello su contenido se tiene que colocar entre comillas ("", '', ``)
 	
 * Funciones (argumentos, `return`)
+	Las funciones son un conjunto de tareas a realizar
+	
+	Los argumentos son las variables a utilizar en la función 
+	
+	El "Return" te muestra el valor de lo solicitado 
 
 * Declaraciones `if`
+	Verifica si se cumple una condición impuesta 
 
 * Valores booleanos (`true`, `false`)
+	Estas valores se usasn para dar información que únicamente puede tener dos estados sí / no, cumple / no cumple, verdadero / falso, existe / no existe
