@@ -1,0 +1,11 @@
+* Bucle `for`
+	Es una tarea repetitiva (bucle) que se ejecuta mientras compara una condicion inicial de una variable hasta que la misma se cumpla
+
+* Operador logico AND `&&`
+	Compara 2 o mas operaciones y para optener un valor verdadero todas las operaciones se deben cumplir 
+
+* Operador logico OR `||`
+	Compara 2 o mas operaciones y para optener un valor verdadero todas las operaciones al menos una de sus condiciones se debe cumplir
+	
+* Operador logico NOT `!`
+	A las operaciones a ejecutar le cambia el valor de verdadero a falso o viceversa 
