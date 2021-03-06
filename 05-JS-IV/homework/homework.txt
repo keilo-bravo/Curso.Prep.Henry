@@ -1,0 +1,12 @@
+	* Objetos: es una variable especial que puede contener más variables en su interior. De esta forma, tenemos la posibilidad de organizar múltiples variables de la misma temática dentro de un objeto.
+	
+	* Propiedades: son las variables dentro de los objetos.
+	
+	* Métodos: son herramientas utilizadas para acceder a los valores de los objetos.
+	
+	* Bucle `for…in`: en un bucle que verifica cada elemento agrupado dentro de un objeto
+	
+	* Notación de puntos vs notación de corchetes:
+		La notación de corchetes permite el uso de caracteres que no pueden usarse con la notación de puntos, además de permitir el acceso a propiedades que contienen caracteres especiales y selección de propiedades usando variables
+		
+		Por otra parte, la notación de puntos es más rápida de escribir y más clara de leer
