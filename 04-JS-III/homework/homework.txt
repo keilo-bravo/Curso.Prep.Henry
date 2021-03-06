@@ -1,0 +1,1 @@
+	* Arrays: Son variables que agrupan varios elementos en ellas
