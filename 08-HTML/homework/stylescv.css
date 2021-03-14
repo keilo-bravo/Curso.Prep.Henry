@@ -1,0 +1,195 @@
+/*Generales*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    max-width: 1110px;
+    padding: .2rem .5rem;
+    margin: auto;
+}
+body {
+	font-family: serif;
+    text-align: center;
+	background-color: #B0BEC5;
+}
+a, a:visited {
+    text-decoration: none;
+  color: black;
+}
+ul{
+	 list-style-type:none;
+}
+#sobre-mi, #exeriencia-laboral{
+	background-color: #EEEEEE;
+}
+section{
+    padding-top: 45px;
+	padding-bottom:  45px;
+}
+#titulos{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+/**/
+
+/*header*/
+.encabezado {
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-content: center;
+}
+header nav {
+    width: 40%;
+}
+header h1 {
+    width: 16.5%;
+    margin-top: 8px;
+    font-size: 15px;
+}
+header ul li {
+    display: inline-block;
+	margin-left: 6px;
+	margin-right: 6px;
+	
+}
+header  li {
+    margin-top: 11px;
+    font-size: 10px;
+}
+header  {
+	background-color: #2d3e50;
+	color: white;
+}
+header a:visited, header a {
+  color: white;
+}
+/**/
+
+/*seccion titulo*/
+.titulo{
+	text-align: center;
+}
+.imagen img{
+    width: 135px ;
+    height: 155px;
+    border:1px solid;
+    line-height: 35px;
+    border-radius: 50%;
+    color: white;
+}
+.ppal{
+	width: 60%;
+}
+.data{
+	width: 40%;
+	align-self: center;
+}
+.datos ul{
+	margin-left: auto;
+	margin-right: auto;
+}
+.datos ul li{
+	margin: 8px;
+	text-align:justify;
+}
+.datos img{
+	width: 100%;
+    max-width: 35px;
+    max-height: 35px;
+	padding-right: 10px;
+}
+.datos a{
+	padding-right: 20px;
+}
+/**/
+
+/*about-me*/
+#about-me h4{
+	font-family: cursive, italic;
+	font-size: 20px;
+	font-weight: 100;
+}
+/**/
+
+/*preparacion*/
+#educacion h3{
+	text-align: center;
+}
+#educacion nav{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#educacion{
+	text-align: left;
+	margin: auto;
+	width: 50%;
+}
+#cursos{
+	text-align-last: left;
+	margin: auto;
+	width: 40%;
+	font-family: serif;
+}
+#cursos li{
+	margin: 10px;
+	text-align: left;
+	list-style-type:circle;
+}
+/**/
+
+/*Experiencia*/
+#experiencia{
+	margin: 10px;
+    width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+} 
+#experiencia li{
+	margin: 10px;
+	text-align: left;
+	list-style-type:disc;
+}
+.laboral{
+	margin: 10px;
+}
+nav {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.logo img{
+	align-content: center;
+    width: 100%;
+    max-width: 155px;
+    max-height: 75px;
+}
+/**/
+
+/*skills*/
+table{
+	width: 34%;
+	margin-top: 15px;
+	margin-bottom:15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#skills{
+	margin-bottom:50px;
+}
+#basico{
+	color: darkgreen;
+}
+#intermedio{
+	color: #FFEB3B;
+}
+#avanzado{
+	color: #FB8C00;
+}
+/**/
