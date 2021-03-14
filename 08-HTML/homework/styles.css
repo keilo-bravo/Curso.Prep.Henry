@@ -1,5 +1,38 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    max-width: 1110px;
+    padding: .2rem .5rem;
+    margin: auto;
+}
+
+body{
+	background-image:url(pizza.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+section{
+	background-color: rgba(203, 203, 203, 0.5);
+	padding-top: 30px;
+	padding-bottom: 120px;
+}
 h1{
 	color: #9b1d20;
+}
+.centro{
+	padding-top: 50px;
+	width: 50%;
 }
 .divClass{
 	width: 500px;
@@ -11,10 +44,9 @@ img{
 }
 #thirdDiv{
 	padding: 50px;
-	background-color: cornsilk;
+	background-color: rgba(240, 214, 121, 0.5);;
 }
 #spanId{
 	font-family: 18px;
 	margin: 50px;
 }
-
